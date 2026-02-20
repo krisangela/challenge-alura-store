@@ -28,4 +28,5 @@ Se maneja un unico cuaderno con las siguientes secciones:
 * Informe final
 
 ## **Instrucciones para ejecutar el notebook:**
-
+* Seleccionar "Open in Colab" que se encuentra en el archivo "AluraStoreLatam.ipynb"
+* Una vez dentro del notebook hacer clic en "Ejecutar Todo"
